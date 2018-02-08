@@ -1,3 +1,5 @@
+# authenticate and send emails from Gmail
+
 import smtplib
 import credentials
 
@@ -31,4 +33,4 @@ try:
 except:
     print('Error sending mail!')
 
-server.quit()
+erver.quit()
