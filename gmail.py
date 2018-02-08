@@ -33,4 +33,4 @@ try:
 except:
     print('Error sending mail!')
 
-erver.quit()
+server.quit()
