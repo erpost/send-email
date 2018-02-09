@@ -1,4 +1,4 @@
-# authenticate and send emails from Gmail
+# To authenticate and send emails from Gmail
 
 import smtplib
 import credentials
